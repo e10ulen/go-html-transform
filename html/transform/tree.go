@@ -1,8 +1,9 @@
 package transform
 
 import (
-	. "code.google.com/p/go-html-transform/h5"
 	"io"
+
+	. "github.com/e10ulen/go-html-transform/h5"
 )
 
 func NewDoc(str string) (*Node, error) {

@@ -15,8 +15,9 @@ package transform
 
 // TODO(jwall): Documentation...
 import (
-	. "code.google.com/p/go-html-transform/h5"
 	"log"
+
+	. "github.com/e10ulen/go-html-transform/h5"
 )
 
 // The TransformFunc type is the type of a Node transformation function.
