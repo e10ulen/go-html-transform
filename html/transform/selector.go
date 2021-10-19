@@ -1,9 +1,10 @@
 package transform
 
 import (
-	. "code.google.com/p/go-html-transform/h5"
 	"log"
 	s "strings"
+
+	. "github.com/e10ulen/go-html-transform/h5"
 )
 
 // SelectorQuery is the type of a CSS Selector Query.
