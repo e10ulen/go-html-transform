@@ -3,7 +3,7 @@ package transform
 import (
 	"io"
 
-	. "github.com/e10ulen/go-html-transform/h5"
+	. "github.com/imdario/go-html-transform/h5"
 )
 
 func NewDoc(str string) (*Node, error) {

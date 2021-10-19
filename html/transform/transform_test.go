@@ -8,7 +8,7 @@ package transform
 import (
 	"testing"
 
-	. "github.com/e10ulen/go-html-transform/h5"
+	. "github.com/imdario/go-html-transform/h5"
 )
 
 func TestNewTransform(t *testing.T) {

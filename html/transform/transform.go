@@ -17,7 +17,7 @@ package transform
 import (
 	"log"
 
-	. "github.com/e10ulen/go-html-transform/h5"
+	. "github.com/imdario/go-html-transform/h5"
 )
 
 // The TransformFunc type is the type of a Node transformation function.
